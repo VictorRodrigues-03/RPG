@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1696130054 source:c:\users\victo\onedrive\햞ea de trabalho\rpg\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaencadeada.h"
+	"fila.h"
+	"rpgInfo.h"
+
+1696130815 c:\users\victo\onedrive\햞ea de trabalho\rpg\listaencadeada.h
+	"rpgInfo.h"
+
+1696110273 c:\users\victo\onedrive\햞ea de trabalho\rpg\rpginfo.h
+
+1696127901 c:\users\victo\onedrive\햞ea de trabalho\rpg\fila.h
+	"listaencadeada.h"
+	"rpgInfo.h"
+
+1696130933 source:c:\users\victo\onedrive\햞ea de trabalho\rpg\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaencadeada.h"
+
+1696129679 source:c:\users\victo\onedrive\햞ea de trabalho\rpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"listaencadeada.h"
+	"fila.h"
+	"rpgInfo.h"
+
+1696110289 source:c:\users\victo\onedrive\햞ea de trabalho\rpg\rpginfo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rpgInfo.h"
+
